@@ -37,7 +37,21 @@ WHERE Name LIKE 'Blade'
 --Create a new table
 SELECT OrganizationLevel,Gender,VacationHours INTO HumanResources.Employee_2 FROM HumanResources.Employee 
 
-SELECT * FROM HumanResources.Employee_2
+SELECT * FROM HumanResources.Employee
 
 UPDATE HumanResources.Employee_2 SET Gender = 'C' WHERE Gender ='F'
 
+---Joining these tables
+
+
+--Joining tables
+SELECT BusinessEntityID,OrganizationLevel,JobTitle,Gender INTO HumanResources.Data_Frame1 FROM HumanResources.Employee
+SELECT BusinessEntityID,SalariedFlag,VacationHours,SickLeaveHours INTO HumanResources.Data_Frame2 FROM HumanResources.Employee
+
+SELECT * FROM HumanResources.Data_Frame1
+SELECT * FROM HumanResources.Data_Frame2
+
+SELECT JobTitle, HumanResources.Data_Frame2.BusinessEntityID, HumanResources.Data_Frame2.SalariedFlag, HumanResources.Data_Frame2.SickLeaveHours, HumanResources.Data_Frame2.VacationHours FROM HumanResources.Data_Frame1
+CROSS JOIN HumanResources.Data_Frame2 
+
+SELECT * FROM HumanResources.Data_Frame2
