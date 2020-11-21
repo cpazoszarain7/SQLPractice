@@ -55,3 +55,67 @@ SELECT JobTitle, HumanResources.Data_Frame2.BusinessEntityID, HumanResources.Dat
 CROSS JOIN HumanResources.Data_Frame2 
 
 SELECT * FROM HumanResources.Data_Frame2
+
+CREATE TABLE HumanResources.MyEmployee (EmployeeID INT, First_Name varchar(20), Last_Name varchar(20))
+
+INSERT INTO HumanResources.MyEmployee VALUES (1, 'Carlos', 'Pazos')
+INSERT INTO HumanResources.MyEmployee VALUES (2, 'Logan', 'Griffith')
+INSERT INTO HumanResources.MyEmployee VALUES (3, 'Calisto', 'Pazos')
+
+CREATE TABLE HumanResources.MySalary (EmployeeID INT, Salary FLOAT)
+
+INSERT INTO HumanResources.MySalary VALUES (1, 10000)
+INSERT INTO HumanResources.MySalary VALUES (2, 20000)
+INSERT INTO HumanResources.MySalary VALUES (3, 80000)
+
+--Inner Join
+SELECT*FROM HumanResources.MyEmployee
+SELECT*FROM HumanResources.MySalary
+
+SELECT A.First_Name, A.Last_Name, B.Salary FROM HumanResources.MyEmployee A
+INNER JOIN HumanResources.MySalary B ON
+A.EmployeeID=B.EmployeeID
+
+--Left Outer Join
+CREATE TABLE HumanResources.MyPhone (EmployeeID INT, Phone VARCHAR(50))
+INSERT INTO HumanResources.MyPhone VALUES (1,'512-357-190')
+INSERT INTO HumanResources.MyPhone VALUES (2,'816-578-892')
+
+SELECT*FROM HumanResources.MyPhone
+SELECT*FROM HumanResources.MyEmployee
+
+SELECT A.First_Name, A.Last_Name,B.Phone FROM HumanResources.MyEmployee A
+LEFT OUTER JOIN HumanResources.MyPhone B ON
+A.EmployeeID=B.EmployeeID
+
+--Right Outer Join
+SELECT*FROM HumanResources.MyPhone
+SELECT*FROM HumanResources.MyEmployee
+
+SELECT A.First_Name, A.Last_Name,B.Phone FROM HumanResources.MyEmployee A
+RIGHT OUTER JOIN HumanResources.MyPhone B ON
+A.EmployeeID=B.EmployeeID
+
+--FULL Join
+SELECT*FROM HumanResources.MyPhone
+SELECT*FROM HumanResources.MyEmployee
+
+SELECT A.First_Name, A.Last_Name,B.Phone FROM HumanResources.MyEmployee A
+FULL OUTER JOIN HumanResources.MyPhone B ON
+A.EmployeeID=B.EmployeeID
+
+--Croos Join
+SELECT*FROM HumanResources.MyPhone
+SELECT*FROM HumanResources.MyEmployee
+
+SELECT A.First_Name, A.Last_Name,B.Phone
+INTO HumanResources.CrossTable
+FROM HumanResources.MyEmployee A
+CROSS JOIN HumanResources.MyPhone B 
+
+SELECT * FROM HumanResources.CrossTable
+
+
+
+
+
