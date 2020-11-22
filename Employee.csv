@@ -1,0 +1,297 @@
+LoginID,OrganizationLevel,JobTitle,BirthDate,MaritalStatus,Gender,VacationHours,SickLeaveHours
+adventure-works\ken0,NULL,Chief Executive Officer,1969-01-29,S,M,99,69
+adventure-works\terri0,1,Vice President of Engineering,1971-08-01,S,F,1,20
+adventure-works\roberto0,2,Engineering Manager,1974-11-12,M,M,2,21
+adventure-works\rob0,3,Senior Tool Designer,1974-12-23,S,M,48,80
+adventure-works\rob0,3,Senior Tool Designer,1974-12-23,S,M,48,80
+adventure-works\gail0,3,Design Engineer,1952-09-27,M,F,5,22
+adventure-works\jossef0,3,Design Engineer,1959-03-11,M,M,6,23
+adventure-works\dylan0,3,Research and Development Manager,1987-02-24,M,M,61,50
+adventure-works\diane1,4,Research and Development Engineer,1986-06-05,S,F,62,51
+adventure-works\gigi0,4,Research and Development Engineer,1979-01-21,M,F,63,51
+adventure-works\michael6,4,Research and Development Manager,1984-11-30,M,M,16,64
+adventure-works\ovidiu0,3,Senior Tool Designer,1978-01-17,S,M,7,23
+adventure-works\thierry0,4,Tool Designer,1959-07-29,M,M,9,24
+adventure-works\janice0,4,Tool Designer,1989-05-28,M,F,8,24
+adventure-works\michael8,3,Senior Design Engineer,1979-06-16,S,M,3,21
+adventure-works\sharon0,3,Design Engineer,1961-05-02,M,F,4,22
+adventure-works\david0,1,Marketing Manager,1975-03-19,S,M,40,40
+adventure-works\david0,1,Marketing Manager,1975-03-19,S,M,40,40
+adventure-works\kevin0,2,Marketing Assistant,1987-05-03,S,M,42,41
+adventure-works\john5,2,Marketing Specialist,1978-03-06,S,M,48,44
+adventure-works\mary2,2,Marketing Assistant,1978-01-29,S,F,43,41
+adventure-works\wanida0,2,Marketing Assistant,1975-03-17,M,F,41,40
+adventure-works\terry0,2,Marketing Specialist,1986-02-04,M,M,44,42
+adventure-works\sariya0,2,Marketing Specialist,1987-05-21,S,M,45,42
+adventure-works\mary0,2,Marketing Specialist,1962-09-13,M,F,46,43
+adventure-works\jill0,2,Marketing Specialist,1979-06-18,M,F,47,43
+adventure-works\james1,1,Vice President of Production,1983-01-07,S,M,64,52
+adventure-works\peter0,2,Production Control Manager,1982-11-03,M,M,43,41
+adventure-works\jo0,3,Production Supervisor - WC60,1956-10-08,S,F,80,60
+adventure-works\guy1,4,Production Technician - WC60,1988-03-13,M,M,21,30
+adventure-works\mark1,4,Production Technician - WC60,1979-09-25,S,M,19,29
+adventure-works\britta0,4,Production Technician - WC60,1989-09-28,M,F,14,27
+adventure-works\margie0,4,Production Technician - WC60,1986-05-20,M,F,18,29
+adventure-works\rebecca0,4,Production Technician - WC60,1977-07-10,M,F,23,31
+adventure-works\annik0,4,Production Technician - WC60,1976-12-26,M,M,17,28
+adventure-works\suchitra0,4,Production Technician - WC60,1987-06-10,M,F,15,27
+adventure-works\brandon0,4,Production Technician - WC60,1977-01-10,M,M,22,31
+adventure-works\jose0,4,Production Technician - WC60,1984-07-31,M,M,20,30
+adventure-works\chris2,4,Production Technician - WC60,1986-08-07,S,M,16,28
+adventure-works\kim1,4,Production Technician - WC60,1966-12-14,M,F,24,32
+adventure-works\ed0,4,Production Technician - WC60,1971-09-11,S,M,25,32
+adventure-works\jolynn0,3,Production Supervisor - WC60,1956-01-16,S,F,82,61
+adventure-works\bryan0,4,Production Technician - WC60,1973-08-27,S,M,35,37
+adventure-works\james0,4,Production Technician - WC60,1984-07-25,M,M,39,39
+adventure-works\nancy0,4,Production Technician - WC60,1988-11-19,M,F,34,37
+adventure-works\simon0,4,Production Technician - WC60,1990-05-17,S,M,38,39
+adventure-works\thomas0,4,Production Technician - WC60,1986-01-10,M,M,37,38
+adventure-works\eugene1,4,Production Technician - WC60,1976-02-10,S,M,36,38
+adventure-works\andrew0,3,Production Supervisor - WC10,1988-09-06,S,M,65,52
+adventure-works\ruth0,4,Production Technician - WC10,1956-06-04,M,F,83,61
+adventure-works\barry0,4,Production Technician - WC10,1956-03-26,S,M,88,64
+adventure-works\sidney0,4,Production Technician - WC10,1956-08-30,M,M,84,62
+adventure-works\jeffrey0,4,Production Technician - WC10,1956-07-11,S,M,85,62
+adventure-works\doris0,4,Production Technician - WC10,1956-04-04,M,F,86,63
+adventure-works\diane0,4,Production Technician - WC10,1956-03-29,M,F,87,63
+adventure-works\bonnie0,4,Production Technician - WC10,1986-09-10,M,F,89,64
+adventure-works\taylor0,3,Production Supervisor - WC50,1956-04-01,M,M,79,59
+adventure-works\denise0,4,Production Technician - WC50,1988-07-06,M,F,9,24
+adventure-works\frank1,4,Production Technician - WC50,1971-07-24,S,M,10,25
+adventure-works\kendall0,4,Production Technician - WC50,1986-05-30,M,M,11,25
+adventure-works\bob0,4,Production Technician - WC50,1979-08-16,S,M,12,26
+adventure-works\pete0,4,Production Technician - WC50,1977-02-03,S,M,13,26
+adventure-works\diane2,4,Production Technician - WC50,1989-08-09,S,F,8,24
+adventure-works\john0,3,Production Supervisor - WC60,1956-08-07,M,M,81,60
+adventure-works\maciej0,4,Production Technician - WC60,1955-01-30,S,M,30,35
+adventure-works\michael7,4,Production Technician - WC60,1973-09-05,S,M,26,33
+adventure-works\randy0,4,Production Technician - WC60,1970-04-28,M,M,29,34
+adventure-works\karan0,4,Production Technician - WC60,1970-03-07,S,M,28,34
+adventure-works\jay0,4,Production Technician - WC60,1976-02-11,S,M,32,36
+adventure-works\charles0,4,Production Technician - WC60,1971-09-02,S,M,27,33
+adventure-works\steve0,4,Production Technician - WC60,1991-04-06,S,M,31,35
+adventure-works\david2,4,Production Technician - WC60,1984-12-29,M,M,33,36
+adventure-works\michael3,3,Production Supervisor - WC30,1989-01-29,S,M,70,55
+adventure-works\steven0,4,Production Technician - WC30,1977-05-14,M,M,41,40
+adventure-works\carole0,4,Production Technician - WC30,1983-10-19,M,F,42,41
+adventure-works\bjorn0,4,Production Technician - WC30,1989-11-06,S,M,43,41
+adventure-works\michiko0,4,Production Technician - WC30,1982-06-27,S,M,44,42
+adventure-works\carol0,4,Production Technician - WC30,1988-10-17,M,F,45,42
+adventure-works\merav0,4,Production Technician - WC30,1983-05-13,M,F,46,43
+adventure-works\reuben0,3,Production Supervisor - WC40,1987-08-27,M,M,72,56
+adventure-works\eric1,4,Production Technician - WC40,1966-12-08,M,M,60,50
+adventure-works\sandeep0,4,Production Technician - WC40,1970-12-03,S,M,65,52
+adventure-works\mihail0,4,Production Technician - WC40,1971-03-09,S,M,64,52
+adventure-works\jack1,4,Production Technician - WC40,1973-08-29,S,M,62,51
+adventure-works\patrick1,4,Production Technician - WC40,1973-12-23,M,M,61,50
+adventure-works\frank3,4,Production Technician - WC40,1952-03-02,M,M,66,53
+adventure-works\brian2,4,Production Technician - WC40,1970-12-23,S,M,63,51
+adventure-works\ryan0,4,Production Technician - WC40,1972-06-13,M,M,59,49
+adventure-works\cristian0,3,Production Supervisor - WC10,1984-04-11,M,M,67,53
+adventure-works\betsy0,4,Production Technician - WC10,1966-12-17,S,F,99,69
+adventure-works\patrick0,4,Production Technician - WC10,1986-09-10,S,M,96,68
+adventure-works\danielle0,4,Production Technician - WC10,1986-09-07,S,F,97,68
+adventure-works\kimberly0,4,Production Technician - WC10,1986-09-13,S,F,95,67
+adventure-works\tom0,4,Production Technician - WC10,1986-10-01,M,M,98,69
+adventure-works\kok-ho0,3,Production Supervisor - WC50,1980-04-28,S,M,78,59
+adventure-works\russell0,4,Production Technician - WC50,1972-11-25,M,M,6,23
+adventure-works\jim0,4,Production Technician - WC50,1986-09-08,M,M,1,20
+adventure-works\elizabeth0,4,Production Technician - WC50,1990-01-25,M,F,5,22
+adventure-works\mandar0,4,Production Technician - WC50,1986-03-21,S,M,0,20
+adventure-works\sameer0,4,Production Technician - WC50,1978-06-26,M,M,4,22
+adventure-works\nuan0,4,Production Technician - WC50,1979-03-29,S,M,2,21
+adventure-works\lolan0,4,Production Technician - WC50,1973-01-24,M,M,7,23
+adventure-works\houman0,4,Production Technician - WC50,1971-08-30,M,M,3,21
+adventure-works\zheng0,3,Production Supervisor - WC10,1983-10-26,S,M,66,53
+adventure-works\ebru0,4,Production Technician - WC10,1986-09-22,S,M,93,66
+adventure-works\mary1,4,Production Technician - WC10,1986-09-19,M,F,94,67
+adventure-works\kevin2,4,Production Technician - WC10,1986-09-19,S,M,90,65
+adventure-works\john4,4,Production Technician - WC10,1986-09-28,S,M,92,66
+adventure-works\christopher0,4,Production Technician - WC10,1986-10-01,M,M,91,65
+adventure-works\jinghao0,3,Production Supervisor - WC50,1989-02-05,S,M,77,58
+adventure-works\alice0,4,Production Technician - WC50,1978-01-26,M,F,95,67
+adventure-works\jun0,4,Production Technician - WC50,1979-07-06,S,M,90,65
+adventure-works\suroor0,4,Production Technician - WC50,1978-02-25,S,M,93,66
+adventure-works\john1,4,Production Technician - WC50,1978-05-31,S,M,91,65
+adventure-works\linda0,4,Production Technician - WC50,1987-07-17,M,F,96,68
+adventure-works\mindaugas0,4,Production Technician - WC50,1978-05-07,M,M,97,68
+adventure-works\angela0,4,Production Technician - WC50,1991-05-31,S,F,92,66
+adventure-works\michael2,4,Production Technician - WC50,1974-05-03,S,M,98,69
+adventure-works\chad0,4,Production Technician - WC50,1990-08-04,M,M,99,69
+adventure-works\don0,4,Production Technician - WC50,1971-06-13,M,M,88,64
+adventure-works\michael4,4,Production Technician - WC50,1989-06-15,S,M,94,67
+adventure-works\kitti0,4,Production Technician - WC50,1987-06-06,S,F,89,64
+adventure-works\pilar0,3,Shipping and Receiving Supervisor,1972-09-09,S,M,93,66
+adventure-works\susan0,4,Stocker,1978-02-17,S,F,97,68
+adventure-works\vamsi0,4,Shipping and Receiving Clerk,1977-03-18,M,M,95,67
+adventure-works\kim0,4,Stocker,1984-04-30,S,F,98,69
+adventure-works\matthias0,4,Shipping and Receiving Clerk,1973-11-11,M,M,94,67
+adventure-works\jimmy0,4,Stocker,1985-05-04,M,M,96,68
+adventure-works\david4,3,Production Supervisor - WC40,1983-07-02,S,M,73,56
+adventure-works\paul0,4,Production Technician - WC40,1980-11-13,S,M,68,54
+adventure-works\gary0,4,Production Technician - WC40,1988-05-16,S,M,69,54
+adventure-works\rob1,4,Production Technician - WC40,1973-08-04,S,M,71,55
+adventure-works\baris0,4,Production Technician - WC40,1990-10-07,S,M,72,56
+adventure-works\nicole0,4,Production Technician - WC40,1986-04-09,M,F,67,53
+adventure-works\michael1,4,Production Technician - WC40,1991-01-04,S,M,70,55
+adventure-works\eric0,3,Production Supervisor - WC20,1985-01-19,M,M,40,40
+adventure-works\ivo0,4,Production Technician - WC20,1982-01-03,M,M,9,24
+adventure-works\sylvester0,4,Production Technician - WC20,1970-11-12,M,M,4,22
+adventure-works\anibal0,4,Production Technician - WC20,1974-09-05,S,F,8,24
+adventure-works\samantha0,4,Production Technician - WC20,1987-11-22,M,F,7,23
+adventure-works\hung-fu0,4,Production Technician - WC20,1971-10-23,S,M,0,20
+adventure-works\prasanna0,4,Production Technician - WC20,1953-04-30,M,M,5,22
+adventure-works\min0,4,Production Technician - WC20,1974-09-10,M,M,1,20
+adventure-works\olinda0,4,Production Technician - WC20,1970-04-04,S,F,3,21
+adventure-works\krishna0,4,Production Technician - WC20,1971-09-05,S,M,2,21
+adventure-works\paul1,4,Production Technician - WC20,1990-11-04,M,M,6,23
+adventure-works\cynthia0,3,Production Supervisor - WC30,1981-08-18,S,F,69,54
+adventure-works\jianshuo0,4,Production Technician - WC30,1989-06-25,S,M,36,38
+adventure-works\sandra0,4,Production Technician - WC30,1975-11-05,M,F,37,38
+adventure-works\jason0,4,Production Technician - WC30,1988-12-07,S,M,38,39
+adventure-works\andy0,4,Production Technician - WC30,1983-10-20,M,M,39,39
+adventure-works\michael5,4,Production Technician - WC30,1982-09-18,M,M,35,37
+adventure-works\rostislav0,4,Production Technician - WC30,1977-09-13,M,M,40,40
+adventure-works\yuhong0,3,Production Supervisor - WC20,1977-04-06,M,M,41,40
+adventure-works\hanying0,4,Production Technician - WC20,1974-10-16,S,M,15,27
+adventure-works\raymond0,4,Production Technician - WC20,1967-03-02,M,M,10,25
+adventure-works\fadi0,4,Production Technician - WC20,1989-02-15,S,M,16,28
+adventure-works\lane0,4,Production Technician - WC20,1974-09-23,M,M,11,25
+adventure-works\linda1,4,Production Technician - WC20,1977-10-05,S,F,12,26
+adventure-works\shelley0,4,Production Technician - WC20,1986-12-08,S,F,14,27
+adventure-works\terrence0,4,Production Technician - WC20,1984-12-08,S,M,13,26
+adventure-works\jeff0,3,Production Supervisor - WC45,1977-01-15,M,M,74,57
+adventure-works\kirk0,4,Production Technician - WC45,1985-02-06,S,M,74,57
+adventure-works\laura0,4,Production Technician - WC45,1980-12-25,S,F,75,57
+adventure-works\alex0,4,Production Technician - WC45,1990-04-13,M,M,77,58
+adventure-works\andrew1,4,Production Technician - WC45,1988-09-24,S,M,73,56
+adventure-works\chris0,4,Production Technician - WC45,1988-12-16,M,M,76,58
+adventure-works\jack0,3,Production Supervisor - WC30,1983-06-22,S,M,68,54
+adventure-works\david1,4,Production Technician - WC30,1979-11-02,S,M,25,32
+adventure-works\garrett0,4,Production Technician - WC30,1984-08-25,S,M,34,37
+adventure-works\susan1,4,Production Technician - WC30,1983-04-02,S,F,31,35
+adventure-works\george0,4,Production Technician - WC30,1977-04-16,M,M,26,33
+adventure-works\david3,4,Production Technician - WC30,1981-08-03,S,M,32,36
+adventure-works\marc0,4,Production Technician - WC30,1986-10-24,M,M,22,31
+adventure-works\eugene0,4,Production Technician - WC30,1987-07-15,S,M,33,36
+adventure-works\benjamin0,4,Production Technician - WC30,1986-01-05,S,M,28,34
+adventure-works\reed0,4,Production Technician - WC30,1989-01-08,M,M,23,31
+adventure-works\david7,4,Production Technician - WC30,1985-09-23,M,M,29,34
+adventure-works\russell1,4,Production Technician - WC30,1982-02-11,M,M,24,32
+adventure-works\john3,4,Production Technician - WC30,1982-03-24,S,M,27,33
+adventure-works\jan0,4,Production Technician - WC30,1974-11-15,S,M,30,35
+adventure-works\katie0,3,Production Supervisor - WC20,1984-11-18,S,F,42,41
+adventure-works\michael0,4,Production Technician - WC20,1984-11-17,S,M,20,30
+adventure-works\nitin0,4,Production Technician - WC20,1986-12-01,S,M,21,30
+adventure-works\barbara0,4,Production Technician - WC20,1979-07-02,M,F,17,28
+adventure-works\john2,4,Production Technician - WC20,1986-04-05,M,M,18,29
+adventure-works\stefen0,4,Production Technician - WC20,1975-12-21,S,M,19,29
+adventure-works\shane0,3,Production Supervisor - WC45,1990-05-24,S,M,75,57
+adventure-works\yvonne0,4,Production Technician - WC45,1989-04-15,M,F,79,59
+adventure-works\douglas0,4,Production Technician - WC45,1985-11-24,M,M,80,60
+adventure-works\janeth0,4,Production Technician - WC45,1972-07-24,S,F,81,60
+adventure-works\robert0,4,Production Technician - WC45,1985-02-28,S,M,82,61
+adventure-works\lionel0,4,Production Technician - WC45,1988-03-14,S,M,78,59
+adventure-works\brenda0,3,Production Supervisor - WC40,1983-02-28,M,F,71,55
+adventure-works\alejandro0,4,Production Technician - WC40,1988-12-05,S,M,52,46
+adventure-works\fred0,4,Production Technician - WC40,1989-06-25,S,M,47,43
+adventure-works\kevin1,4,Production Technician - WC40,1985-12-25,S,M,58,49
+adventure-works\shammi0,4,Production Technician - WC40,1980-10-04,M,M,53,46
+adventure-works\rajesh0,4,Production Technician - WC40,1977-10-04,M,M,48,44
+adventure-works\lorraine0,4,Production Technician - WC40,1988-11-26,M,F,49,44
+adventure-works\paula1,4,Production Technician - WC40,1987-02-10,M,F,54,47
+adventure-works\frank0,4,Production Technician - WC40,1987-09-06,M,M,56,48
+adventure-works\brian0,4,Production Technician - WC40,1977-02-10,S,M,55,47
+adventure-works\tawana0,4,Production Technician - WC40,1989-11-10,S,M,50,45
+adventure-works\ken1,4,Production Technician - WC40,1981-05-28,M,M,51,45
+adventure-works\gabe0,4,Production Technician - WC40,1988-05-10,M,M,57,48
+adventure-works\lori0,3,Production Supervisor - WC45,1980-07-18,S,F,76,58
+adventure-works\stuart0,4,Production Technician - WC45,1962-09-13,S,M,84,62
+adventure-works\greg0,4,Production Technician - WC45,1970-10-18,S,M,85,62
+adventure-works\scott0,4,Production Technician - WC45,1987-02-10,M,M,86,63
+adventure-works\kathie0,4,Production Technician - WC45,1990-11-01,M,F,87,63
+adventure-works\belinda0,4,Production Technician - WC45,1969-09-17,S,F,83,61
+adventure-works\hazem0,2,Quality Assurance Manager,1977-10-26,S,M,80,60
+adventure-works\peng0,3,Quality Assurance Supervisor,1976-03-18,M,M,81,60
+adventure-works\sootha0,4,Quality Assurance Technician,1966-12-05,M,M,85,62
+adventure-works\andreas0,4,Quality Assurance Technician,1989-03-28,M,M,84,62
+adventure-works\mark0,4,Quality Assurance Technician,1986-04-30,S,M,83,61
+adventure-works\sean0,4,Quality Assurance Technician,1976-03-06,S,M,82,61
+adventure-works\zainal0,3,Document Control Manager,1976-01-30,M,M,77,58
+adventure-works\tengiz0,4,Control Specialist,1990-04-28,S,M,76,58
+adventure-works\sean1,4,Document Control Assistant,1987-03-12,S,M,78,59
+adventure-works\karen0,4,Document Control Assistant,1975-12-25,M,F,79,59
+adventure-works\chris1,4,Control Specialist,1987-05-26,M,M,75,57
+adventure-works\ascott0,2,Master Scheduler,1968-09-17,S,M,44,42
+adventure-works\sairaj0,3,Scheduling Assistant,1987-12-22,M,M,46,43
+adventure-works\william0,3,Scheduling Assistant,1981-11-06,M,M,45,42
+adventure-works\william0,3,Scheduling Assistant,1981-11-06,M,M,45,42
+adventure-works\alan0,3,Scheduling Assistant,1984-03-29,M,M,47,43
+adventure-works\brian1,3,Scheduling Assistant,1984-08-11,M,M,48,44
+adventure-works\gary1,2,Facilities Manager,1971-02-18,M,M,86,63
+adventure-works\christian0,3,Maintenance Supervisor,1976-01-18,M,M,92,66
+adventure-works\lori1,4,Janitor,1970-07-31,M,F,90,65
+adventure-works\stuart1,4,Janitor,1971-12-17,M,M,88,64
+adventure-works\jo1,4,Janitor,1954-04-24,M,F,91,65
+adventure-works\pat0,4,Janitor,1970-12-03,S,M,89,64
+adventure-works\magnus0,3,Facilities Administrative Assistant,1971-08-27,M,M,87,63
+adventure-works\laura1,1,Chief Financial Officer,1976-01-06,M,F,0,20
+adventure-works\laura1,1,Chief Financial Officer,1976-01-06,M,F,0,20
+adventure-works\paula0,2,Human Resources Manager,1976-02-11,M,F,54,47
+adventure-works\grant0,3,Human Resources Administrative Assistant,1976-04-16,S,M,53,46
+adventure-works\hao0,3,Human Resources Administrative Assistant,1977-04-17,S,M,52,46
+adventure-works\vidur0,3,Recruiter,1984-08-01,S,M,50,45
+adventure-works\mindy0,3,Benefits Specialist,1984-11-20,M,F,51,45
+adventure-works\willis0,3,Recruiter,1978-07-18,S,M,49,44
+adventure-works\david6,2,Accounts Manager,1983-07-08,M,M,57,48
+adventure-works\deborah0,3,Accounts Receivable Specialist,1976-03-06,M,F,60,50
+adventure-works\candy0,3,Accounts Receivable Specialist,1976-02-23,S,F,61,50
+adventure-works\bryan1,3,Accounts Receivable Specialist,1984-09-20,S,M,62,51
+adventure-works\barbara1,3,Accountant,1976-01-04,M,F,58,49
+adventure-works\dragan0,3,Accounts Payable Specialist,1977-02-14,M,M,63,51
+adventure-works\janet0,3,Accounts Payable Specialist,1979-03-09,M,F,64,52
+adventure-works\mike0,3,Accountant,1979-07-01,S,M,59,49
+adventure-works\wendy0,2,Finance Manager,1984-10-11,S,F,55,47
+adventure-works\sheela0,3,Purchasing Manager,1978-02-10,S,F,49,44
+adventure-works\sheela0,3,Purchasing Manager,1978-02-10,S,F,49,44
+adventure-works\sheela0,3,Purchasing Manager,1978-02-10,S,F,49,44
+adventure-works\mikael0,4,Buyer,1984-08-17,S,M,59,49
+adventure-works\arvind0,4,Buyer,1974-08-21,M,M,60,50
+adventure-works\linda2,4,Buyer,1970-11-30,M,F,56,48
+adventure-works\fukiko0,4,Buyer,1970-11-24,M,M,57,48
+adventure-works\gordon0,4,Buyer,1966-11-29,M,M,52,46
+adventure-works\frank2,4,Buyer,1952-05-12,M,M,58,49
+adventure-works\eric2,4,Buyer,1972-09-17,S,M,54,47
+adventure-works\erin0,4,Buyer,1971-01-04,S,F,53,46
+adventure-works\ben0,4,Buyer,1973-06-03,M,M,55,47
+adventure-works\annette0,4,Purchasing Assistant,1978-01-29,M,F,50,45
+adventure-works\reinout0,4,Purchasing Assistant,1978-01-17,M,M,51,45
+adventure-works\david5,2,Assistant to the Chief Financial Officer,1964-06-21,S,M,56,48
+adventure-works\jean0,1,Information Services Manager,1975-12-13,S,F,65,52
+adventure-works\stephanie0,2,Network Manager,1984-03-25,S,F,68,54
+adventure-works\ashvini0,3,Network Administrator,1977-03-27,S,M,70,55
+adventure-works\peter1,3,Network Administrator,1980-05-28,S,M,69,54
+adventure-works\karen1,2,Application Specialist,1978-05-19,S,F,74,57
+adventure-works\ramesh0,2,Application Specialist,1988-03-13,S,M,73,56
+adventure-works\dan0,2,Application Specialist,1987-05-26,M,M,72,56
+adventure-works\françois0,2,Database Administrator,1975-05-17,S,M,67,53
+adventure-works\dan1,2,Database Administrator,1976-01-06,M,M,66,53
+adventure-works\janaina0,2,Application Specialist,1985-01-30,M,F,71,55
+adventure-works\brian3,1,Vice President of Sales,1977-06-06,S,M,10,25
+adventure-works\stephen0,2,North American Sales Manager,1951-10-17,M,M,14,27
+adventure-works\michael9,3,Sales Representative,1968-12-25,S,M,38,39
+adventure-works\linda3,3,Sales Representative,1980-02-27,M,F,27,33
+adventure-works\jillian0,3,Sales Representative,1962-08-29,S,F,24,32
+adventure-works\garrett1,3,Sales Representative,1975-02-04,M,M,33,36
+adventure-works\tsvi0,3,Sales Representative,1974-01-18,M,M,29,34
+adventure-works\pamela0,3,Sales Representative,1974-12-06,S,F,22,31
+adventure-works\shu0,3,Sales Representative,1968-03-09,M,M,26,33
+adventure-works\josé1,3,Sales Representative,1963-12-11,M,M,31,35
+adventure-works\david8,3,Sales Representative,1974-02-11,S,M,23,31
+adventure-works\tete0,3,Sales Representative,1978-01-05,M,M,39,39
+adventure-works\syed0,2,Pacific Sales Manager,1975-01-11,M,M,20,30
+adventure-works\lynn0,3,Sales Representative,1977-02-14,S,F,36,38
+adventure-works\amy0,2,European Sales Manager,1957-09-20,M,F,21,30
+adventure-works\rachel0,3,Sales Representative,1975-07-09,S,F,35,37
+adventure-works\jae0,3,Sales Representative,1968-03-17,M,F,37,38
+adventure-works\ranjit0,3,Sales Representative,1975-09-30,S,M,34,37
