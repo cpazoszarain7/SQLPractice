@@ -188,8 +188,15 @@ SELECT LTRIM('    TEXT   ')
 SELECT RTRIM('    TEXT   ')
 SELECT LTRIM(RTRIM('    TEXT   '))
 
+--Developing Dataset
+SELECT LoginID,OrganizationLevel,JobTitle, BirthDate, MaritalStatus, Gender, VacationHours,SickLeaveHours
+INTO HumanResources.Employee3
+FROM HumanResources.Employee
+RIGHT OUTER JOIN HumanResources.EmployeeDepartmentHistory ON
+HumanResources.Employee.BusinessEntityID =HumanResources.EmployeeDepartmentHistory.BusinessEntityID
 
 
+SELECT * FROM HumanResources.Employee3
 
 
 
